@@ -5,7 +5,7 @@ We  then proceed with tidying our dataset by removing any missing values and als
 There are some column names with typos and after fixing that we head on to our univariate analysis.
 Here we look at:
    The country with the highest number of individuals with access to bank accounts,
-   the type of location with the highest number of individuals having access to bank accounts in the four countries (Rural or Urban),
+   the type of location i.e rural or urban with the highest number of individuals having access to bank accounts in the four countries,
    the country with the highest number of individuals coming from Rural areas having access to bank accounts,
    the age group with the highest financial inclusion,
    access to bank accounts over the years,
