@@ -16,7 +16,7 @@ Once done with univariate analysis we begin bivariate analysis where we use scat
 We also take a look at the correlation between the different variables using the pearson coefficient method.
 Finally we begin our multivariate analysis. Here we perform different kinds of analysis.
 They include:
-   Principle Component Analysis (PCA)
-   Factor Analysis
-   Linear Discriminant Analysis (LDA)
+   Principle Component Analysis (PCA),
+   Factor Analysis and
+   Linear Discriminant Analysis (LDA).
 We look at these three types of multivariate analysis to prioritize and to reduce the number of variables we have to deal with in our dataset, without losing the essence of the data collected.
